@@ -1,0 +1,15 @@
+<html>
+<body>
+<img src ="light.jpg" onclick = "dynamic()" id = "pun" width = "1000px" height = "1000px">
+<script>
+function dynamic ()
+{
+  var image = document.getElementById('pun');
+  if(image.src.match("dark"))
+      image.src ="light.jpg";
+  else
+      image.src ="dark.jpg" ;
+}
+</script>
+</body>
+</html>
