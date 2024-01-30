@@ -1,0 +1,89 @@
+
+
+
+
+
+Sure, here are the LaTeX commands for the given sets of equations along with the generated equations:
+
+1. \( (a+b) \frac{x+y}{3} \)
+
+   Generated equation:
+   \[ (a+b) \frac{x+y}{3} \]
+
+2. \( \lim_{{n \to \infty}} \left(1 + \frac{1}{n}\right)^n = e \)
+
+   Generated equation:
+   \[ \lim_{{n \to \infty}} \left(1 + \frac{1}{n}\right)^n = e \]
+
+3. \( \bigcup_{{i=1}}^{n} Q_i \)
+
+   Generated equation:
+   \[ \bigcup_{{i=1}}^{n} Q_i \]
+
+4. \( \bigcup_{{i=1}}^{n} \)
+
+   Generated equation:
+   \[ \bigcup_{{i=1}}^{n} \]
+
+5. \( P_{100} \left(\sum_{{x=0}} f(x)\right) \)
+
+   Generated equation:
+   \[ P_{100} \left(\sum_{{x=0}} f(x)\right) \]
+
+6. \( \alpha + \beta = \gamma + \delta \)
+
+   Generated equation:
+   \[ \alpha + \beta = \gamma + \delta \]
+
+7. \( \sqrt[10000]{5} \)
+
+   Generated equation:
+   \[ \sqrt[10000]{5} \]
+
+8. \( \sqrt[27]{8} \)
+
+   Generated equation:
+   \[ \sqrt[27]{8} \]
+
+9. \( \int_{{x=0}}^{\pi} \int_{{x=0}}^{100} x \, dx \)
+
+   Generated equation:
+   \[ \int_{{x=0}}^{\pi} \int_{{x=0}}^{100} x \, dx \]
+
+10. \( \int_{{i=0}}^{\infty} \int_{{x=0}}^{\infty} x \, dx \)
+
+   Generated equation:
+   \[ \int_{{i=0}}^{\infty} \int_{{x=0}}^{\infty} x \, dx \]
+
+11. \( X_x^x \)
+
+   Generated equation:
+   \[ X_x^x \]
+
+12. \( \begin{align*} x + 3y &= 2 \quad \text{(1)} \\ x &\leq 3 + 4x + 5y \end{align*} \)
+
+   Generated equations:
+   \[ x + 3y = 2 \quad \text{(1)} \]
+   \[ x \leq 3 + 4x + 5y \]
+
+13. \( S[i] = \begin{cases} 0 & \text{if } T_i \geq \lambda \\ 1 & \text{if } T_i < \lambda \end{cases} \)
+
+   Generated equation:
+   \[ S[i] = \begin{cases} 0 & \text{if } T_i \geq \lambda \\ 1 & \text{if } T_i < \lambda \end{cases} \]
+
+14. \( \begin{align*} x + 3y &= 2 \quad \text{(3)} \\ x &\leq 3 + 4x + 5y \quad \text{(4)} \end{align*} \)
+
+   Generated equations:
+   \[ x + 3y = 2 \quad \text{(3)} \]
+   \[ x \leq 3 + 4x + 5y \quad \text{(4)} \]
+
+15. \( \sum_{{k=0}}^{\infty} \frac{{(-1)^k}}{{k+1}} = \int_{{0}}^{\infty} \frac{{dx}}{{x}} \)
+
+   Generated equation:
+   \[ \sum_{{k=0}}^{\infty} \frac{{(-1)^k}}{{k+1}} = \int_{{0}}^{\infty} \frac{{dx}}{{x}} \]
+
+16. \( \begin{align*} x &= 2 \quad \text{(5)} \\ x^2 &\geq 3 + 5^2y \end{align*} \)
+
+   Generated equations:
+   \[ x = 2 \quad \text{(5)} \]
+   \[ x^2 \geq 3 + 5^2y \]
